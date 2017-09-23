@@ -1,0 +1,3 @@
+chi can su dung tham so -a de commit mot tap tin da duoc tracked
+
+modified de test commit khong can add vao Staging Area
